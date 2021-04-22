@@ -91,6 +91,29 @@ class SPT:
 		'''
 		print(art)
 
+
+
+
+class TeeRama7:
+
+	def __init__(self):
+		self.name = 'Tee'
+		self.lastname = 'Rama7'
+
+	def myart(self):
+		art = '''
+------------------------------------------
+.
+      ":"
+    ___:____     |"\/"|  Tee
+  ,'        `.    \  /
+  |  O        \___/  |
+~^~^~^~^~^~^~^~^~^~^~^~^~
+------------------------------------------
+		'''
+		print(art)
+
+
 if __name__ == '__main__':
 	test = UncleEngineer()
 	test.myart()
