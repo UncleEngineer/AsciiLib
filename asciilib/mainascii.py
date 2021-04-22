@@ -23,6 +23,22 @@ _______\|/__________\\;_\\//___\|/________
 		'''
 		print(art)
 
+class SPT:
+
+	def __init__(self):
+		self.name = 'SPT'
+		self.lastname = 'THG'
+
+	def myart(self):
+		art = '''
+------------------------------------------
+		SPT-THG
+              <<<      >>>
+            <<<__________>>>
+                 ll ll
+------------------------------------------
+		'''
+		print(art)
 
 if __name__ == '__main__':
 	test = UncleEngineer()
