@@ -48,5 +48,5 @@ class TeeRama7:
 
 
 if __name__ == '__main__':
-	test = TeeRama7()
+	test = UncleEngineer()
 	test.myart()
